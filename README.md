@@ -1,17 +1,19 @@
-## Welcome to my gitProfile ⛺
 
-<div align="center">
-  <h1>Olá, eu sou o Gui! 👋</h1>
-  <h3>Desenvolvedor de Software | Apaixonado por código, inovação e projetos</h3>
-</div>
-<br>
 
-<div align="center">
+### 👋 Olá! Bem-vindo ao meu perfil!
+
+<p align="center">
   <a href="https://github.com/gui-dev7">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui-dev7&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-dev7&layout=compact&langs_count=7&theme=synthwave"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gui-dev7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de gui-dev7"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-dev7&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas por gui-dev7"/>
   </a>
-</div>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=gui-dev7&theme=tokyonight&hide_border=true" alt="GitHub Streak de gui-dev7"/>
+  </a>
+</p>
 <br>
 
 <div style="display: inline_block" align="center">
@@ -24,7 +26,6 @@
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="AWS" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
 </div>
-<br>
 <br>
 
 <div align="center">
