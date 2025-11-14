@@ -6,6 +6,7 @@
   <a href="https://github.com/gui-dev7">
     <img src="https://github-readme-stats.vercel.app/api?username=gui-dev7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de gui-dev7"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-dev7&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas por gui-dev7"/>
+    <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)"
   </a>
 </p>
 
