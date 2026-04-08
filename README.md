@@ -1,6 +1,21 @@
 ![](https://komarev.com/ghpvc/?username=gui-dev7&color=006bed)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006bed&size=24&center=true&vCenter=true&width=1000&lines=Backend+Developer;Java+%7C+Cloud+%7C+APIs;Arquitetura+de+Software;FIAP+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24&center=true&vCenter=true&width=1000&lines=AWS;AN%C3%81LISE+DE+DADOS;JAVA;PYTHON;SCRUM;PROJETOS;BACK-END;CLOUD&color=006bed&duration=2000&pause=800&repeat=true)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FFB300?style=for-the-badge&logo=amazonaws&logoColor=black" />
+  <img src="https://img.shields.io/badge/AN%C3%81LISE%20DE%20DADOS-FF4D4D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JAVA-FF8000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-2EAD4A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCRUM-FF5FA2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PROJETOS-D9D9D9?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/BACK--END-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CLOUD-006bed?style=for-the-badge&logo=icloud&logoColor=white" />
+</p>
+
+<p align="center">
+  <i>"Quando queres alguma coisa, todo o universo conspira para te ajudar"</i>
+</p>
 
 ## Sobre mim
 
