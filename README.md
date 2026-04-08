@@ -60,6 +60,7 @@
 - 📦 Sistema de Estoque com sincronização em tempo real  
 - 🌐 Aplicações Web com foco em UX e performance  
 - ☁️ Projetos utilizando AWS e Cloudflare  
+- 🎲 Projetos de Análise de Dados
 
 ## Onde me encontrar
 
