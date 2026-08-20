@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/gui-dev7">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=006BED&center=true&vCenter=true&width=460&lines=Sistemas+de+Informa%C3%A7%C3%A3o+%40+FIAP;APIs+RESTful+em+Java%2C+Python+e+Node;An%C3%A1lise+de+dados+e+intelig%C3%AAncia+de+neg%C3%B3cio;Cloud+na+AWS+%2B+Gest%C3%A3o+de+Projetos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=006BED&center=true&vCenter=true&width=580&lines=Sistemas+de+Informa%C3%A7%C3%A3o+%40+FIAP;APIs+RESTful+em+Java%2C+Python+e+Node;An%C3%A1lise+de+dados+e+intelig%C3%AAncia+de+neg%C3%B3cio;Cloud+na+AWS+%2B+Gest%C3%A3o+de+Projetos" alt="Typing SVG" />
   </a>
 </p>
 
