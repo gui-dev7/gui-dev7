@@ -20,7 +20,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias, desenvolvendo e analisando dados por aí..
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na FIAP.
+- 🎓 Estudando Sistemas de Informação na FIAP.
 - 💼 Desenvolvendo soluções com foco em Back-End, APIs RESTful, Banco de Dados e Cloud.
 - 🌱 Aprendendo mais sobre Arquitetura de Software, Microserviços e Engenharia de Dados.
 
