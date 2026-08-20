@@ -1,114 +1,64 @@
-![](https://komarev.com/ghpvc/?username=gui-dev7&color=006bed)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24&center=true&vCenter=true&width=1000&lines=AWS;AN%C3%81LISE+DE+DADOS;JAVA;PYTHON;SCRUM;PROJETOS;BACK-END;CLOUD&color=006bed&duration=2000&pause=800&repeat=true)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:006bed,100:00d4ff&height=170&section=header&text=Guilherme%20Oliveira&fontColor=ffffff&fontSize=42&fontAlignY=32&desc=Back-End%20%E2%80%A2%20Dados%20%E2%80%A2%20Cloud&descAlignY=52&descSize=16&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-FFB300?style=for-the-badge&logo=amazonaws&logoColor=black" />
-  <img src="https://img.shields.io/badge/AN%C3%81LISE%20DE%20DADOS-FF4D4D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JAVA-FF8000?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTHON-2EAD4A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCRUM-FF5FA2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PROJETOS-D9D9D9?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/BACK--END-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CLOUD-006bed?style=for-the-badge&logo=icloud&logoColor=white" />
+  <a href="https://github.com/gui-dev7">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=006BED&center=true&vCenter=true&width=460&lines=Sistemas+de+Informa%C3%A7%C3%A3o+%40+FIAP;APIs+RESTful+em+Java%2C+Python+e+Node;An%C3%A1lise+de+dados+e+intelig%C3%AAncia+de+neg%C3%B3cio;Cloud+na+AWS+%2B+Gest%C3%A3o+de+Projetos" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   <i>"Quando queres alguma coisa, todo o universo conspira para te ajudar"</i>
 </p>
 
-## Sobre mim
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gui-dev7&style=flat&color=006bed&label=views" />
+  <a href="https://www.linkedin.com/in/guilhermeolivers/"><img src="https://img.shields.io/badge/LinkedIn-006bed?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:guilherme.oliveira_01@outlook.com"><img src="https://img.shields.io/badge/E--mail-006bed?style=flat&logo=maildotru&logoColor=white" /></a>
+  <a href="https://github.com/gui-dev7"><img src="https://img.shields.io/github/followers/gui-dev7?label=follow&style=flat&color=006bed&labelColor=333333" /></a>
+</p>
 
-- 🤔 Explorando novas tecnologias, desenvolvendo e analisando dados por aí..
-- 🎓 Estudando Sistemas de Informação na FIAP.
-- 💼 Desenvolvendo soluções com foco em Back-End, APIs RESTful, Banco de Dados e Cloud.
-- 🌱 Aprendendo mais sobre Arquitetura de Software, Microserviços e Engenharia de Dados.
+<br>
 
----
-## 📊 Estatísticas
+### 👋 Sobre
 
-<div align="center">
-  <img height="160em" src="https://streak-stats.demolab.com?user=gui-dev7&theme=dracula&cache_seconds=1800" />
-</div>
+Estudante de **Sistemas de Informação na FIAP**, focado em **Back-End**, **APIs RESTful** e **dados**.
+Hoje explorando Arquitetura de Software, Microserviços e Engenharia de Dados — sempre com um pé em Cloud e Gestão de Projetos.
 
----
+<br>
 
-## Minhas Skills
+### 🧰 Stack
 
-### **Aplicações e dados**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,cs,ts,react,postgres,mysql,docker,aws,azure,git,figma&theme=dark&perline=14" />
+</p>
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=007396)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
-![Hibernate](https://img.shields.io/badge/-Hibernate-333333?style=flat&logo=hibernate)
-![JPA](https://img.shields.io/badge/-JPA-333333?style=flat&logo=hibernate)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
+<br>
 
----
+### 📊 Stats
 
-### **Utilidades**
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gui-dev7&show_icons=true&hide_border=true&title_color=006bed&icon_color=006bed&text_color=9f9f9f&bg_color=0d1117&include_all_commits=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-dev7&layout=compact&hide_border=true&title_color=006bed&text_color=9f9f9f&bg_color=0d1117&langs_count=8" />
+</p>
 
-![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat&logo=fastapi)
-![RESTful](https://img.shields.io/badge/-RESTful-333333?style=flat)
-![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json)
-![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=jsonwebtokens)
-![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=gui-dev7&hide_border=true&background=0d1117&ring=006bed&fire=006bed&currStreakLabel=006bed&sideLabels=9f9f9f&dates=6e7681&stroke=006bed&cache_seconds=1800" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gui-dev7&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+</p>
 
-### **DevOps**
+<br>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=cloudflare)
+### 🐍 Contribuições
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gui-dev7/gui-dev7/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gui-dev7/gui-dev7/output/github-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gui-dev7/gui-dev7/output/github-snake.svg" />
+  </picture>
+</p>
 
-### **Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea)
-![NetBeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=apachenetbeanside&logoColor=1B6AC6)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-
----
-
-## 🚀 Projetos em destaque
-
-- 💰 **Plataforma Fintech**  
-  Java Web + Oracle + JSP + Servlets + DAO  
-
-- 📦 **Sistema de Estoque em Tempo Real**  
-  Sincronização entre múltiplos usuários  
-
-- 🌐 **Aplicações Web focadas em UX**  
-  Performance + experiência do usuário  
-
-- ☁️ **Cloud Projects**  
-  AWS + Cloudflare  
-
-- 🎲 **Projetos de Análise de Dados**  
-  Python + manipulação e insights  
-
----
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-Guilherme%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeolivers/)](https://www.linkedin.com/in/guilhermeolivers/)
-[![Gmail Badge](https://img.shields.io/badge/-guilherme.oliveira_01@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme.oliveira_01@outlook.com)](mailto:guilherme.oliveira_01@outlook.com)
-[![GitHub](https://img.shields.io/github/followers/gui-dev7?label=follow&style=social)](https://github.com/gui-dev7)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:006bed&height=110&section=footer" />
