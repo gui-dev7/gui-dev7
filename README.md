@@ -36,14 +36,14 @@ Hoje explorando Arquitetura de Software, Microservi√ßos e Engenharia de Dados ‚Ä
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/gui-dev7?style=for-the-badge&label=FOLLOWERS&color=006bed&labelColor=0d1117&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgui-dev7&query=%24.public_repos&style=for-the-badge&label=REPOS&color=006bed&labelColor=0d1117&logo=github&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=gui-dev7&style=for-the-badge&color=006bed&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/gui-dev7/Metrica"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgui-dev7%2FMetrica&query=%24.language&style=flat-square&label=Metrica&color=006bed&labelColor=0d1117" /></a>
-  <a href="https://github.com/gui-dev7/FinDash"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgui-dev7%2FFinDash&query=%24.language&style=flat-square&label=FinDash&color=006bed&labelColor=0d1117" /></a>
-  <a href="https://github.com/gui-dev7/EcoRewards-v1-"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgui-dev7%2FEcoRewards-v1-&query=%24.language&style=flat-square&label=EcoRewards&color=006bed&labelColor=0d1117" /></a>
+  <a href="https://github.com/gui-dev7/Metrica"><img src="https://img.shields.io/badge/Metrica-TypeScript-006bed?style=flat-square&labelColor=0d1117" /></a>
+  <a href="https://github.com/gui-dev7/FinDash"><img src="https://img.shields.io/badge/FinDash-HTML-006bed?style=flat-square&labelColor=0d1117" /></a>
+  <a href="https://github.com/gui-dev7/EcoRewards-v1-"><img src="https://img.shields.io/badge/EcoRewards-HTML-006bed?style=flat-square&labelColor=0d1117" /></a>
+  <a href="https://github.com/gui-dev7/GMHealth"><img src="https://img.shields.io/badge/GMHealth-Projeto-006bed?style=flat-square&labelColor=0d1117" /></a>
 </p>
 
 <br>
