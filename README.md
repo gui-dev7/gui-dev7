@@ -13,7 +13,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermeolivers/"><img src="https://img.shields.io/badge/LinkedIn-006bed?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:guilherme.oliveira_01@outlook.com"><img src="https://img.shields.io/badge/E--mail-006bed?style=flat&logo=maildotru&logoColor=white" /></a>
-  <a href="https://github.com/gui-dev7"><img src="https://img.shields.io/github/followers/gui-dev7?label=follow&style=flat&color=006bed&labelColor=333333" /></a>
 </p>
 
 <br>
@@ -36,29 +35,17 @@ Hoje explorando Arquitetura de Software, Microserviços e Engenharia de Dados �
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/gui-dev7?style=for-the-badge&label=followers&color=006bed&labelColor=0d1117&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgui-dev7&query=%24.public_repos&style=for-the-badge&label=repos&color=006bed&labelColor=0d1117&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/gui-dev7?style=for-the-badge&label=FOLLOWERS&color=006bed&labelColor=0d1117&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgui-dev7&query=%24.public_repos&style=for-the-badge&label=REPOS&color=006bed&labelColor=0d1117&logo=github&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=gui-dev7&style=for-the-badge&color=006bed&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=gui-dev7&hide_border=true&background=0d1117&ring=006bed&fire=006bed&currStreakLabel=006bed&sideLabels=9f9f9f&dates=6e7681&stroke=006bed&cache_seconds=1800" />
+  <a href="https://github.com/gui-dev7/Metrica"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgui-dev7%2FMetrica&query=%24.language&style=flat-square&label=Metrica&color=006bed&labelColor=0d1117" /></a>
+  <a href="https://github.com/gui-dev7/FinDash"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgui-dev7%2FFinDash&query=%24.language&style=flat-square&label=FinDash&color=006bed&labelColor=0d1117" /></a>
+  <a href="https://github.com/gui-dev7/EcoRewards-v1-"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgui-dev7%2FEcoRewards-v1-&query=%24.language&style=flat-square&label=EcoRewards&color=006bed&labelColor=0d1117" /></a>
+  <a href="https://github.com/gui-dev7/GMHealth"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgui-dev7%2FGMHealth&query=%24.language&style=flat-square&label=GMHealth&color=006bed&labelColor=0d1117" /></a>
 </p>
-
-<!--
-  Cards de "stats" e "top languages" removidos: a instancia publica
-  github-readme-stats.vercel.app esta com o deploy pausado (503) e o
-  github-profile-trophy.vercel.app retorna 402 — por isso as imagens quebradas.
-
-  Para ter os cards de volta de forma estavel, faca um fork de
-  https://github.com/anuraghazra/github-readme-stats e publique no SEU Vercel.
-  Depois troque o dominio nas linhas abaixo e descomente:
-
-  <p align="center">
-    <img height="165" src="https://SEU-PROJETO.vercel.app/api?username=gui-dev7&show_icons=true&hide_border=true&title_color=006bed&icon_color=006bed&text_color=9f9f9f&bg_color=0d1117&include_all_commits=true&rank_icon=github" />
-    <img height="165" src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=gui-dev7&layout=compact&hide_border=true&title_color=006bed&text_color=9f9f9f&bg_color=0d1117&langs_count=8" />
-  </p>
--->
 
 <br>
 
