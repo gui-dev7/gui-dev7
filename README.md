@@ -44,7 +44,6 @@ Hoje explorando Arquitetura de Software, Microservi√ßos e Engenharia de Dados ‚Ä
   <a href="https://github.com/gui-dev7/Metrica"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgui-dev7%2FMetrica&query=%24.language&style=flat-square&label=Metrica&color=006bed&labelColor=0d1117" /></a>
   <a href="https://github.com/gui-dev7/FinDash"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgui-dev7%2FFinDash&query=%24.language&style=flat-square&label=FinDash&color=006bed&labelColor=0d1117" /></a>
   <a href="https://github.com/gui-dev7/EcoRewards-v1-"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgui-dev7%2FEcoRewards-v1-&query=%24.language&style=flat-square&label=EcoRewards&color=006bed&labelColor=0d1117" /></a>
-  <a href="https://github.com/gui-dev7/GMHealth"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgui-dev7%2FGMHealth&query=%24.language&style=flat-square&label=GMHealth&color=006bed&labelColor=0d1117" /></a>
 </p>
 
 <br>
