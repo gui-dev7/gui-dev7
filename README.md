@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <i>"Quando queres alguma coisa, todo o universo conspira para te ajudar"</i>
+  <i>"Quando queres alguma coisa, todo o universo conspira para te ajudar</i>
 </p>
 
 <p align="center">
